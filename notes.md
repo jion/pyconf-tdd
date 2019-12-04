@@ -3,3 +3,4 @@
 - Tdd definimos la api que queremos tener (problema de la hoja en blanco)
 - No generar nuevo codigo hasta que no pase el test que estamos haciendo
 - Dependencia entre unit test --. no
+- Idea: Requisitos minimos para asistir a la charla. Con minimo test y link para aprender antes de ir
