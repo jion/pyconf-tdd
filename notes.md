@@ -1,0 +1,5 @@
+- Uno cuando mastica una historia genera codigo, ideas, borradores. Como se alinea eso con tdd dado que "no puedo hacer codigo si no test?"
+  - YO creo que la lista de test te refinan la historia y podes discutir con alguien no tecnico 
+- Tdd definimos la api que queremos tener (problema de la hoja en blanco)
+- No generar nuevo codigo hasta que no pase el test que estamos haciendo
+- Dependencia entre unit test --. no

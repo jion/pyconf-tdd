@@ -1,0 +1,3 @@
+- [ ] Usuario sin cuenta se tiene que poder registrar con un email no usado.
+  - Precondiciones: sin cuenta, con un email no usado
+  -
